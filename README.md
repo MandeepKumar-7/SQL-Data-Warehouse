@@ -74,6 +74,6 @@ data-warehouse-project/
 ---
 
 
-## 🌟 About Me
+##  About Me
 
 Hi there 👋! I'm **Mandeep Kumar**, recently graduated from **IIT Kharagpur**'26 batch. I’m looking for new opportunities.
